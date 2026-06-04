@@ -52,8 +52,8 @@ docker compose exec backend python scripts/seed.py
 
 Sample credentials:
 
-- Email: `admin@example.com`
-- Password: `Password123`
+- Email: `amankr103012@gmail.com`
+- Password: `Aman103012@`
 
 ## Backend Development
 
