@@ -144,11 +144,11 @@ Docker Hub:
 
 Replace these after publishing:
 
--GitHub repository: https://github.com/amankr753/production-ready-full-stack-inventory-order
--Docker Hub backend image: https://hub.docker.com/r/aman753/inventory-backend
--Live frontend: https://production-ready-full-stack-invento-omega.vercel.app
--Live backend API: https://production-ready-full-stack-inventory-2wt3.onrender.com
--API docs: https://production-ready-full-stack-inventory-2wt3.onrender.com/docs
+GitHub repository: https://github.com/amankr753/production-ready-full-stack-inventory-order
+Docker Hub backend image: https://hub.docker.com/r/aman753/inventory-backend
+Live frontend: https://production-ready-full-stack-invento-omega.vercel.app
+Live backend API: https://production-ready-full-stack-inventory-2wt3.onrender.com
+API docs: https://production-ready-full-stack-inventory-2wt3.onrender.com/docs
 
 ## Folder Structure
 
