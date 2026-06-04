@@ -124,7 +124,7 @@ Inventory and dashboard:
 Backend options:
 
 - Render, Railway, or Fly.io
-- Use the `backend/Dockerfile`
+- Use the root `Dockerfile` when the platform builds from the repository root, or `backend/Dockerfile` when the platform lets you set `backend` as the service root
 - Configure `DATABASE_URL`, `SECRET_KEY`, `ALGORITHM`, `ACCESS_TOKEN_EXPIRE_MINUTES`, and `CORS_ORIGINS`
 - Run `alembic upgrade head` before starting the API
 
